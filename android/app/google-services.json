@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "547798718179",
+    "firebase_url": "https://mice---seita-project-flutter-default-rtdb.firebaseio.com",
+    "project_id": "mice---seita-project-flutter",
+    "storage_bucket": "mice---seita-project-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547798718179:android:caa94d3c9fcb6e638ad7d6",
+        "android_client_info": {
+          "package_name": "com.example.seita_app_teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547798718179-auilbgdeg4kl2lnea2mpu6gk9i12b634.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxH6-47lrnAuyFDdLDq2Y6fvt4GUdXAHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547798718179-auilbgdeg4kl2lnea2mpu6gk9i12b634.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
