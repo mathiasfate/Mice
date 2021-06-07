@@ -17,7 +17,8 @@ In the profile page, all the users posts are listed.
  <img src="https://scontent.fpfb1-1.fna.fbcdn.net/v/t1.15752-9/198759337_1611131362429588_2261753583345878002_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEUqds2z27ehGEL1WQ66gpCizP8-1rS2kyLM_z7WtLaTO0r51-UcDI9jrDcuJxYBkGB7xlRkRjdED8sibJF__hL&_nc_ohc=_IMAkSetrsgAX_kQoL1&tn=upWcse9RDhRXWL0x&_nc_ht=scontent.fpfb1-1.fna&oh=8738b4fb6d323dbbfea8cf9c727b5e70&oe=60E502DC">.
  <br>
 # Theme Page
-You can choose 4 colors to paint your app, the choosen colors are saved in the database and will always start the app with them.|<img src="https://scontent.fpfb1-1.fna.fbcdn.net/v/t1.15752-9/194878747_161711579262496_4638146557548048055_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGOZUDIk3VeQ7G87eLYfmqLJ7vwTiZSddknu_BOJlJ12XoDB8cgExcZp821KoaD9UzSdSjsjsRkjz3aixpBI5gW&_nc_ohc=vnJrkQBDkJIAX_I9GnR&_nc_ht=scontent.fpfb1-1.fna&oh=29362817fe8b3df9ea18a31cf2dad360&oe=60E50730">
+You can choose 4 colors to paint your app, the choosen colors are saved in the database and will always start the app with them.
+<img src="https://scontent.fpfb1-1.fna.fbcdn.net/v/t1.15752-9/194878747_161711579262496_4638146557548048055_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGOZUDIk3VeQ7G87eLYfmqLJ7vwTiZSddknu_BOJlJ12XoDB8cgExcZp821KoaD9UzSdSjsjsRkjz3aixpBI5gW&_nc_ohc=vnJrkQBDkJIAX_I9GnR&_nc_ht=scontent.fpfb1-1.fna&oh=29362817fe8b3df9ea18a31cf2dad360&oe=60E50730">
 <img src="https://scontent.fpfb1-1.fna.fbcdn.net/v/t1.15752-9/198033060_184559860249168_7768816964522210057_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeF7Gz3WNneom6mu9jjOs0EKApei0kSE4BACl6LSRITgEJffpSNWSrRRIlyOXks9y9zkvxAmp-kv2_YKr4j0UY7t&_nc_ohc=YuIwu5UPKtkAX-n5BtS&_nc_ht=scontent.fpfb1-1.fna&oh=23d3d3203bd47e9c7f63664e99606df1&oe=60E50034">.
 # Comment Section
  You can comment posts with text and images. The amount of comments, likes and saves are displayed here.
