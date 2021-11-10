@@ -5,7 +5,9 @@ Mice is a social media app based in Twitter, Instagram and Facebook, done in Flu
  <img src="https://i.ibb.co/MNV3qqV/Login-Screen.png"> 
 # Timeline
   The timeline can have posts with text, images and both.
+  <br>
  <img src="https://i.ibb.co/c1M90Q3/TimeLine.png"> 
+ <br>
 # Drawer
  <img src="https://i.ibb.co/NLGS52y/Drawer.png">.
 # Chat Drawer
